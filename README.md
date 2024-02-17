@@ -1,15 +1,16 @@
-Olá! Eu sou a Luisa Vacilotto Ramos 👋
-Olá! Seja bem-vindo ao meu perfil do GitHub. Aqui você encontrará um pouco sobre mim e meus projetos.
+# Olá! Eu sou a Luísa Vacilotto Ramos 👋
+Seja bem-vindo! Aqui você encontrará um pouco sobre mim e meus projetos.
 
-Sobre mim
-Sou uma entusiasta da tecnologia apaixonada por desenvolvimento web e sempre em busca de aprender coisas novas. Atualmente, estou focada em aprimorar minhas habilidades em HTML, CSS, JavaScript e PHP. Além disso, recentemente comecei a me aventurar nos estudos de C#. 💻
+Espero que você encontre algo interessante por aqui! 😊
 
-Estatísticas do GitHub
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luvacilotto&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luvacilotto&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
-Stacks e Tecnologias
+## Sobre mim
+Sou uma entusiasta da tecnologia apaixonada por desenvolvimento web e sempre em busca de aprender coisas novas. Atualmente, estou focada em aprimorar minhas habilidades em HTML, CSS, JavaScript e PHP. 
+
+Além disso, recentemente comecei a me aventurar nos estudos de C#. 💻
+
+Estou cursando o tecnólogo em Sistemas para Internet e iniciei recentemente a pós-graduação em Desenvolvimento Full Stack.
+
+## Stacks e Tecnologias
 Aqui estão algumas das tecnologias com as quais trabalho e estou estudando:
 
 <div style="display: inline_block"><br>
@@ -17,13 +18,13 @@ Aqui estão algumas das tecnologias com as quais trabalho e estou estudando:
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
 </div>
-Contato
-Se quiser entrar em contato, fique à vontade para me enviar um e-mail ou me encontrar nas redes sociais:
+
+## Contato
 
 <div> 
-  <a href = "mailto:luvacilotto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luisavramos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/luvacilotto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:luvacilotto@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png" style="vertical-align:top; margin:4px"></a>
+  <a href="https://www.linkedin.com/in/luisavramos" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" style="vertical-align:top; margin:4px"></a>
 </div>
-Fique à vontade para explorar meus repositórios e projetos. Espero que você encontre algo interessante por aqui! 😊
