@@ -10,7 +10,7 @@ Além disso, recentemente comecei a me aventurar nos estudos de C#. 💻
 
 Estou cursando o tecnólogo em Sistemas para Internet e iniciei recentemente a pós-graduação em Desenvolvimento Full Stack.
 
-## Stacks e Tecnologias
+## Stacks
 Aqui estão algumas das tecnologias com as quais trabalho e estou estudando:
 
 <div style="display: inline_block"><br>
