@@ -1,10 +1,10 @@
 # Olá! Eu sou a Luísa Vacilotto Ramos 👋
-Seja bem-vindo! Aqui você encontrará um pouco sobre mim e meus projetos.
+Seja bem-vindo! Aqui você encontra um pouco sobre mim, meus estudos e meus projetos.
 
 Espero que você encontre algo interessante por aqui! 😊
 
 ## Sobre mim
-Sou uma entusiasta da tecnologia apaixonada por desenvolvimento web e sempre em busca de aprender coisas novas. Atualmente, estou focada em aprimorar minhas habilidades em HTML, CSS, JavaScript e PHP. 
+Sou uma entusiasta da tecnologia que deu seus primeiros passos no mundo da programação através do desenvolvimento web. Estou sempre em busca de aprender coisas novas e expandir minhas habilidades.
 
 Além disso, recentemente comecei a me aventurar nos estudos de C#. 💻
 
